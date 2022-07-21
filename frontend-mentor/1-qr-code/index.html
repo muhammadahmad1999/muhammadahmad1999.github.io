@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+    <title>Frontend Mentor | QR code component</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .attribution { font-size: 11px; text-align: center; }
+        .attribution a { color: hsl(228, 45%, 44%); }
+        @font-face {
+            font-family: outfit;
+            src: url('./fonts/Outfit-VariableFont_wght.ttf')
+        }
+    </style>
+</head>
+<body class="bg-[#d6e2f0]">
+<div class="flex flex-row min-h-screen justify-center items-center">
+    <div class="flex flex-col justify-center items-center max-w-xs bg-white rounded-2xl p-4 text-center shadow-xl">
+        <img class="rounded-xl" src="./images/image-qr-code.png" alt="qr code image"/>
+        <div class="m-4 text-xl font-['outfit'] font-bold leading-6">
+            Improve your front-end <br/> skills by building projects
+        </div>
+        <div class="text-[#7b879d] text-sm mx-2 font-['outfit'] leading-4">
+            Scan the QR code to visit Frontend <br/> Mentor and take your coding skills to <br/> the next level
+        </div>
+        <div class="attribution text-xs italic mt-8 opacity-55">
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+            Coded by <a href="muhammadahmad1999.github.io">Muhammad Ahmad</a>.
+        </div>
+    </div>
+</div>
+</body>
+</html>
