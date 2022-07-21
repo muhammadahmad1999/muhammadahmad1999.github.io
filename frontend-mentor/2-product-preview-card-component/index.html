@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+    <title>Frontend Mentor | Product preview card component</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <style>
+        @font-face {
+            font-family: fraunces;
+            src: url("./fonts/fraunces.ttf");
+        }
+
+        @font-face {
+            font-family: montserrat;
+            src: url("./fonts/montserrat.ttf");
+        }
+
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+        }
+
+        .attribution a {
+            color: hsl(228, 45%, 44%);
+        }
+    </style>
+</head>
+<body class="bg-[#f2ebe3]">
+<div class="flex flex-col justify-center items-center min-h-screen">
+    <div class="max-w-xs bg-white rounded-xl flex flex-col md:flex-row md:max-w-xl">
+        <img class="rounded-t-xl md:w-3/6 md:hidden" src="./images/image-product-mobile.jpg" alt="image of a chanel perfume"/>
+        <img class="hidden rounded-l-xl md:w-3/6 md:flex" src="./images/image-product-desktop.jpg" alt="image of a chanel perfume"/>
+        <div class="m-6">
+            <div class="font-['montserrat'] uppercase text-[#6c7289] mb-2 md:mb-4 text-xs tracking-[0.4em]">
+                Perfume
+            </div>
+            <h1 class="font-['fraunces'] text-2xl font-[700] leading-[1.75rem] mb-2 md:mb-8">
+                Gabrielle Essence <br/> Eau De Parfum
+            </h1>
+            <p class="font-['montserrat'] text-sm text-[#6c7289] mb-4 md:mb-8 text-[700]">
+                A floral, solar and voluptuous interpretation composed by Olivier Polge,
+                Perfumer-Creator for the House of CHANEL.
+            </p>
+
+            <div class="flex flex-start">
+                <div class="font-['fraunces'] text-2xl font-bold text-[#3c8067]">$149.99</div>
+                <div class="ml-4 text-xs mt-1.5 line-through text-[#6c7289]">$169.99</div>
+            </div>
+
+            <div class="flex flex-row text-white bg-[#3c8067] rounded-md mt-4 md:mt-8 justify-center items-center p-4">
+                <img src="./images/icon-cart.svg" alt="cart icon">
+                <div class="font-['montserrat'] text-sm font-semibold text-center ml-3">
+                    Add to Cart
+                </div>
+            </div>
+
+            <div class="attribution italic opacity-50 mt-2">
+                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+                Coded by <a href="http://muhammadahmad1999.github.io">Muhammad Ahmad</a>.
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
