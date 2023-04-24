@@ -1,19 +1,19 @@
 # Site settings
-title: "On Software Engineering, Mathematics<br>and Philosophy"
-author: "Hugo Sereno Ferreira"
-description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
-keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "I am a Professor of Software Engineering at the <a href='http://www.fe.up.pt'>Faculty of Engineering</a>, University of Porto and Senior Researcher at <a href='https://www.inesctec.pt'>INESC TEC</a>. Here you can find my <a href='/assets/thesis.pdf'>PhD Thesis</a> and my <a href='/assets/cv.pdf'>Résumé</a>."
-colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+title: "Muhammad Ahmad's Digital Portfolio and Blog"
+author: "Muhammad Ahmad"
+description: "Welcome to my digital portfolio! I am excited to share my passion for science, technology and the world with you. As you explore my portfolio, you'll see that I have a wide range of interests and skills, which have allowed me to work on a variety of successful commercial projects. From designing websites to developing mobile apps, I enjoy taking on new challenges and pushing myself to grow as a developer. Thank you for taking the time!"
+keywords: "Software Engineering, Mathematics, Artificial Intelligence, React, React Native, Android, iOS, Mobile App Development, Website Development, Angular, Programming, Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision"
+biography: "I am currently a student studying <a href='https://courses.leeds.ac.uk/g734/computer-science-with-artificial-intelligence-meng-bsc'>Computer Science with Artificial Intelligence</a> at the <a href='https://www.leeds.ac.uk/'>University of Leeds</a>. Here you can find my <a href='/assets/final-yp.pdf'>Final Year Project Thesis</a> (not published yet) and my <a href='/assets/cv.pdf'>Résumé</a>. (not published)"
+colophon: "© Muhammad Ahmad. Site created with <a href='http://jekyllrb.com/'>Jekyll</a>."
 
 baseurl: ""
-url: "http://hugosereno.eu"
+url: "http://muhammad-ahmad.tech"
 
-twitter_username: ferreira_hugo
-github_username: hugoferreira
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
-google-analytics: UA-69060-5
+twitter_username: N/A
+github_username: muhammadahmad1999
+linkedin_username: muhammad-a-747540142
+facebook_username: N/A
+google-analytics: N/A
 
 simple_search: http://google.com/search
 markdown: kramdown
