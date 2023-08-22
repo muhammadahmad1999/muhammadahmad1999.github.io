@@ -15,6 +15,9 @@ In the name of Allah (The God), the most Gracious and the most Merciful.
 
 Assalam o alaikum. Peace be on you.
 
+
+
+
 ### Introduction
 The recent tragic human rights violations around the world have rightly caused ripples around the World. From Churches burning in India's Manipur to Churches burning in Pakistan. From Temples burning in Jerusalam to Temples burning in African countries.
 
