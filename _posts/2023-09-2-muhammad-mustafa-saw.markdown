@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muhammad Mustafa (saw) - Mercy for Mankind
-date: 2023-09-02 18:00
+date: 2023-09-02 18:08
 comments: true
 external-url:
 categories: Loyalty
@@ -101,13 +101,6 @@ I have not researched into this but my gut feeling is that it is the **sudden** 
 
 And to get this point across, here is a simulation (procedurally generated) to give a visual example of this:
 [Sunrise/Sunset animation](/assets/tahajjud-animation.html).
-
-
-
-
-
-
-
 
 
 References:
