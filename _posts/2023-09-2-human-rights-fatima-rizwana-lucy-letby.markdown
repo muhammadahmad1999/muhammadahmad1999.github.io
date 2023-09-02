@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fatima, Rizwana, Seema and Lucy Letby case
-date: 2023-09-02 16:00
+date: 2023-09-02 09:00
 comments: true
 external-url:
 categories: Human-Rights

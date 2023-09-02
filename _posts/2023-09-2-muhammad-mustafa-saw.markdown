@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muhammad Mustafa (saw) - Mercy for Mankind
-date: 2023-09-02 18:08
+date: 2023-09-02 12:00
 comments: true
 external-url:
 categories: Loyalty
