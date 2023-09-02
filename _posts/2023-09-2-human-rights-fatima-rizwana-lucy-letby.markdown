@@ -27,6 +27,9 @@ ___
 
 <p style="text-align: center; font-size: 1.25em; font-weight: bold;">Fatima - (Captivating; Shining One in Arabic)</p>
 
+<p style="text-align: center;"><img src="/assets/fatima-flower.png" alt="Islam" style="width: 15em"/></p>
+
+
 <p style="text-align: center; font-size: 1.25em; font-style: italic;">A captivating <b>flower</b> denied her right</p>
 
 <p style="text-align: center; font-size: 1.25em; font-style: italic;">to <b>blossom</b> and <b>shine</b> in the world.</p>
