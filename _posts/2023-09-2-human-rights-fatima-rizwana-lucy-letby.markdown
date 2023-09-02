@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fatima, Rizwana, Seema and Lucy Letby case
-date: 2023-08-22 11:45
+date: 2023-09-02 16:00
 comments: true
 external-url:
 categories: Human-Rights
@@ -15,6 +15,9 @@ categories: Human-Rights
 <p style="text-align: center; font-size: 1.25em">Bismillah irrahman irrahim.</p>
 
 <p style="text-align: center; font-size: 1.25em">In the name of <b>Allah (The God)</b>, the Most <b>Gracious</b>, the Most <b>Merciful</b>.</p>
+
+<p style="text-align: center; font-size: 1.25em">Assalam o alaikum. Peace be on you.</p>
+
 
 ___
 

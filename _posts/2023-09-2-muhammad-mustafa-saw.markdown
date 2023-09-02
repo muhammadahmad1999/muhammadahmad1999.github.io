@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Muhammad Mustafa (saw) - Mercy for mankind
-date: 2023-08-22 11:45
+title: Muhammad Mustafa (saw) - Mercy for Mankind
+date: 2023-09-02 18:00
 comments: true
 external-url:
 categories: Loyalty
@@ -9,16 +9,15 @@ categories: Loyalty
 
 > Why is loyalty important? Is the best reward for goodness always good?
 
-# ﷽
+<p style="text-align: center; font-size: 2em">﷽</p>
 
-Bismillah irrahman irrahim.
+<p style="text-align: center; font-size: 1.25em">Bismillah irrahman irrahim.</p>
 
-In the name of Allah (The God), the most Gracious and the most Merciful. 
+<p style="text-align: center; font-size: 1.25em">In the name of <b>Allah (The God)</b>, the Most <b>Gracious</b>, the Most <b>Merciful</b>.</p>
 
-Assalam o alaikum. Peace be on you.
+<p style="text-align: center; font-size: 1.25em">Assalam o alaikum. Peace be on you.</p>
 
-
-
+___
 
 ### Introduction
 The recent tragic human rights violations around the world have rightly caused ripples around the World. From Churches burning in India's Manipur to Churches burning in Pakistan. From Temples burning in Jerusalam to Temples burning in African countries.
