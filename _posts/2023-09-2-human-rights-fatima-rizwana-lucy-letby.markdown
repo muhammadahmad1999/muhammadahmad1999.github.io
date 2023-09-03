@@ -16,7 +16,11 @@ categories: Human-Rights
 
 <p style="text-align: center; font-size: 1.25em">In the name of <b>Allah (The God)</b>, the Most <b>Gracious</b>, the Most <b>Merciful</b>.</p>
 
-<p style="text-align: center; font-size: 1.25em">Assalam o alaikum. Peace be on you.</p>
+<p style="text-align: center; font-size: 2em">السلام عليكم ورحمة الله وبركاته</p>
+
+<p style="text-align: center; font-size: 1.25em">Assalam o alaikum wa rahamatullahi wa barakatahu.</p>
+
+<p style="text-align: center; font-size: 1.25em">May the peace and blessings of <b>Allah (the God)</b> be upon you.</p>
 
 
 ___
