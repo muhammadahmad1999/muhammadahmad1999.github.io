@@ -4,7 +4,7 @@ title: SalatHub - Interactive Educational App to Teach Salat (Namaz)
 date: 2023-09-05 18:58
 comments: true
 external-url:
-categories: Ahmadiyya-Muslim-Association-(Jamaat)
+categories: Ahmadiyya-Muslim-Association-(Jamaat-e-Ahmadiyya Muslima)
 ---
 
 > SalatHub – Interactive Educational App to Teach Salat (Namaz)
