@@ -4,7 +4,7 @@ title: Common parallels between Major Religions
 date: 2023-09-03 5:14
 comments: true
 external-url:
-categories: Interfaith-Harmony, Human-Rights
+categories: Interfaith-Harmony
 ---
 
 > Common parallels between Major Religions
