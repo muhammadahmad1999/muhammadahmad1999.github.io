@@ -88,9 +88,27 @@ However, ignoring the **reality** of time, one thing that should make sense now 
 
 > We don't have to travel to this distant planet to figure out for sure that Fire and Ice does exist on this planet to make an **educated** guess (which is very likely to be true) that it does exist on the said planet.
 
-What is the full/final metric of proof? Sending a spacecraft to the said planet and livestreaming the fire and ice or even better sending a human there and asking him/her questions about the Fire and Ice they say/recorded on this planet.
+What is the full/final metric of **proof**? Sending a spacecraft to the said planet and livestreaming the fire and ice or even better sending a human there and asking him/her questions about the Fire and Ice they say/recorded on this planet.
+
+Now in order to show that **time** does indeed seem to be an illusion, I will take a very **unusual** route: I will analyse inspirational songs from different periods written in very different contexts and by very different people: I will show that because the writers were **brethren** in their school of thought, their writings even in different languages are saying the same things.
+
+As such, the following songs/poems/nazms will be analysed:
+1. [JERMAINE EDWARDS- Beautiful Day](https://www.youtube.com/watch?v=1lQedCA1zJY&list=RD1lQedCA1zJY&start_radio=1)
+2. [El pueblo unido, jamás será vencido [+English Translation]](https://www.youtube.com/watch?v=bH1B-Th813Q)
+3. [Coke Studio Bharat - Geejaga Hakki - Sanjith Hegde x Charan Raj
+](https://www.youtube.com/watch?v=xj6FfNmzCHY)
+4. [Humood - Kun Anta (Lyrics)](https://www.youtube.com/watch?v=3Yr-9hdROsU)
+5. [Coke Studio Bharat - Khalasi - Aditya Gadhvi x Achint](https://www.youtube.com/watch?v=t7wSjy9Lv-o)
+6. [Baang-e-Dara: 31 - Mouj-e-Darya - موجِ دریا - Allama Iqbal - Iqbaliyat - AadhiBaat](https://www.youtube.com/watch?v=zeozwqgDPGw&t=65s)
 
 ___
+
+### Beautiful Day
+There is a reason I chose the image of the beautiful **sunrise** at the start of this article. Life can indeed be quite tiring, especially when one is fighting for the Weak and their rights (Universal Human Rights). Yet, it is these small yet amazing moments, such as a sunrise and sunset, that make life worth living: the rest of the day seems pretty dull _usually_ **to me personally** and I love the dynamic colours, vibrant patterns that emerge at times **of great change** (such as from Night to Day or Day to Night).
+
+In honour of our African brethren, I will first start this **unusual** analysis of Science and Songs to explain a scientific principle with the song **Beautiful Day** by **Jermaine Edwards**.
+
+The song was released on the YouTube channel 9 years ago in 2014, yet because **it talks about principles** it will still have the same impact on someone a 1000 years from now if **that someone** can understand this song.
 
 ### Conclusion
 
