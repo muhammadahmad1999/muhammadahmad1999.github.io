@@ -106,9 +106,39 @@ ___
 ### Beautiful Day
 There is a reason I chose the image of the beautiful **sunrise** at the start of this article. Life can indeed be quite tiring, especially when one is fighting for the Weak and their rights (Universal Human Rights). Yet, it is these small yet amazing moments, such as a sunrise and sunset, that make life worth living: the rest of the day seems pretty dull _usually_ **to me personally** and I love the dynamic colours, vibrant patterns that emerge at times **of great change** (such as from Night to Day or Day to Night).
 
-In honour of our African brethren, I will first start this **unusual** analysis of Science and Songs to explain a scientific principle with the song **Beautiful Day** by **Jermaine Edwards**.
+In honour of our Jamaican (apologies for the **mistake**) brethren, I will first start this **unusual** analysis of Science and Songs to explain a scientific principle with the song **Beautiful Day** by **Jermaine Edwards**.
 
 The song was released on the YouTube channel 9 years ago in 2014, yet because **it talks about principles** it will still have the same impact on someone a 1000 years from now if **that someone** can understand this song.
+
+> I don't wanna act too **high** and **mighty** <br/>
+> Cause tomorrow I might **fall** down on **ma face**
+
+The writer starts by reminding **man** of his *finite* **life** and **circumstances**: humility is a very beautiful characteristic of humans, as it makes us **aware** of our mistakes in the **Past** and creates a strong desire for **change**, both **within** and **outside** ourselves. 
+
+> Lord I **thank** you for **sunshine** <br/>
+> Thank you for **rain** <br/>
+
+In Spiritual Terminology, sunshine is associated with success, so the writer is reminding man that _any_ **success** he has requires **thanks** the the True Lord (Allah - the God), as man can accomplish nothing on his own.
+
+The next verse is a beautiful juxtaposition: "Thank you for **rain**": rain can either be a source of blessings (after a drought) or can be a source of a severe trial (can cause flooding etc.) As such, the author is reminding us that even though **rain** looks very nice to watch, just like the Holy Prophet Muhammad Mustafa (saw/pbuh) used to get anxious when seeing rain clouds, one must always remember Allah (the God) in such times. Allah (the God) is the source of **all that is _Good_**: anything that comes from **Him**, even trials, are **Good**.
+
+> Thank you for **joy** <br/>
+> Thank you for **pain**
+
+ In the next two verses, the author reiterates these concepts more **explicitly** by juxtaposing thanks for **joy** (sunshine/sunny day) and **pain** (which rain can cause sometimes - flooding, cold etc.).
+
+> It's a **beautiful Day** Ey Ey Ey ey <br/>
+> It's a **beautiful Day** Ey Ey ey
+
+After this the author reminds us, that it is this alternation between **Day** and **Night**, **Night** and **Day**, **Joy** and **Pain**, **Pain** and **Joy** that makes life fascinating and unique: this is the **“twinkle”** of life just like there is a **“twinkle”** in the **Stars** (**"jag mag"** - Punjabi).
+
+The rest of the song alternates on similar themes, hence, I have decided to not analyse it for fear of redundancy.
+
+___
+
+Note now how similar the above song (and I believe the author is of a **Christian** background) is to the Teachings of the Holy Quran, Sunnah and Ahadith? The author of this song is of a different time period, religion and culture than our Lord and Master **Hadhrat Muhammad Mustafa (saw/pbuh)**, yet because what he is saying agrees with the **principles** of what the **Seal of the Prophets** (saw/pbuh) said, we can say that what the author says has Wisdom **even though the author's name is not mentioned in the _Quran_**.
+
+> So if we can apply this **principle** in the **Future**, why can we not do the same for the **Past** (we will be doing this later in the article)?
 
 ### Conclusion
 
