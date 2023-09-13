@@ -140,5 +140,39 @@ Note now how similar the above song (and I believe the author is of a **Christia
 
 > So if we can apply this **principle** in the **Future**, why can we not do the same for the **Past** (we will be doing this later in the article)?
 
+___
+
+### El Pueblo Unido Jamás Será Vencido (Spanish song)
+
+This is a song in a totally different language, culture and context. Yet amazingly even this song is **_in its essence_** saying the same thing.
+
+> The united people will never be defeated,
+
+In the very first lyric, the condition for success in any endeavour is laid bare: **_unity_**.
+
+Now unity does not necessarily mean **unity** of a **country**. It is a much broader term, which can losely be described as **Unity in Purpose/Intention/Niyyat**. This is a much better understanding of the principle of "Unity" in my opinion: the people of a country can have different ethnicities, religions, speak different languages **but** as long as they are **united** in their _purpose_ (good or bad depends on the context), they will eventually achieve the said purpose. This might actually have something to do with the principle that "Systems tend to an equilibrium"? Have not researched this so don't know for sure.
+
+Yet **pause** and **think**: is this not the same as what Islam says is a prerequisite for **Lailat-ul-Qadr**? Namely, unity in purpose and unity of a people based on the above definition? Is it not a principle in Islam that when there is disunity Allah's Rhamat (Mercy) is reduced and can even, _God Forbid_, be removed?
+
+Note the _neutral_ language used here because just as each human is varied physically and mentally, so are the different Nations that these varied humans make up, hence, these terms will need to be applied carefully in different settings with due regard to the History and Culture of the different Nations on Earth.
+
+___
+
+> On **foot**, singing <br/>
+> because we are going **triumph**. <br/>
+> Advance **now**,<br/>
+> flags of **unity**.<br/>
+> And you will come<br/>
+> marching **together** with me,<br/>
+> and in that way you will see<br/>
+> **your song** and your **flag flourish**.<br/>
+> The **light**<br/>
+> of a red **dawn**<br/>
+> now announces<br/>
+> the **life** which will come.
+
+It is made clear that **change** requires hardwork (“on foot”), and we need to make a lot of noise (“singing”).
+
+
 ### Conclusion
 
