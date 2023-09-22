@@ -160,19 +160,39 @@ ___
 
 > On **foot**, singing <br/>
 > because we are going **triumph**. <br/>
+
+It is made clear that **change** requires hardwork (“on foot”), and we need to make a **lot** of noise (“singing”). With the ultimate goal in sight, just like in Reinforcement Learning, we will “triumph” one day. This is exactly the same phrase that someone with diversified portfolio of investements will often say to themselves!
+
 > Advance **now**,<br/>
 > flags of **unity**.<br/>
+
+Next it is made clear to the audience that it is the **now** that matters **not** thinking about what comes later or **wasting** too much time on planning your next action: plan for a bit and **then** take the actions needed. And the note how next verse uses “flags” instead of the singular “flag”: the author correctly identifies the principle of having a diversified portfolio of investments. Any movement can only be successful when it has **diversity of thought** at the very least. 
+
 > And you will come<br/>
 > marching **together** with me,<br/>
 > and in that way you will see<br/>
 > **your song** and your **flag flourish**.<br/>
+
+The audience is then reminded that the journey is not going to be an easy one, as “marching” usually has connotations of being exhausting. However, not the beautiful use of "together with me" straight after: just like any tough thing in life, friends, company, a herd, a community etc. makes the ordeal easier to handle. And if this advise is followed, the audience is promised that one day they will see their “cause”/“ideal”/“principle” flourish. What is really interesting is the juxtaposition of “song” and “flag”:
+1. “Song” inherently refers to an individualistic point of view. So this is referring to indiviudal freedom and autonomy within the bounds of the Law of the Land flourishing.
+2. “Flag” on the other hand denotes a communal ideal/value/principle, referring to what is good for society or the community at large.
+
+So here the author has touched up on the fine balance that is required between individual autonomy and communal good.
+
 > The **light**<br/>
 > of a red **dawn**<br/>
 > now announces<br/>
 > the **life** which will come.
 
-It is made clear that **change** requires hardwork (“on foot”), and we need to make a lot of noise (“singing”).
+The image at the start of this article is not exactly a “red dawn”, but it is close enough! Look at how beautiful it looks. How vibrant the colours are. How majestic the sky looks.
 
+Just like looking at this sunrise fills one with **hope** for a better **day** than **yesterday**, the same feeling is being invoked in the audience's mind but in regard to the final accomplishment of the ideals of their cause.
+
+___
+
+Here we have another song in a different language (Spanish) which seems to be saying pretty much the same thing as the song above by the Caribbean author? Wait a second! Did the authors **know** _each other_? Nay, were they the **same** authors but just using a different **pen name**?
+
+> Nope! Just **two authors** with the **same principles**, separated by **physical distance** (space in space-time), yet their principles unite them in **time** (time in space-time).
 
 ### Conclusion
 
