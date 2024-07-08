@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Stats preview card component</title>
+
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    img {
+      filter: sepia(100%) saturate(100%) brightness(70%) hue-rotate(244deg);
+    }
+  </style>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#090B1A] min-w-screen w-full">
+    <div class="flex flex-row items-center justify-center px-10">
+      <div class="flex flex-col h-screen w-screen md:w-1/2 lg:w-1/4 items-center justify-center px-4">
+        <div class="flex flex-row bg-[#1B1938] min-w-full rounded-3xl">
+          <div class="flex flex-col w-full">
+            <div class="flex flex-row items-center justify-center w-full pb-2">
+              <img id="image" class="rounded-t-lg" src="./assets/image-header-mobile.jpg" alt="Jessica Avatar">
+            </div>
+            <div class="flex flex-row text-white items-center justify-center text-center text-2xl font-semibold pt-2 px-4">
+              <p>Get <span class="text-[#AA5CDB]">insights</span> that help your business grow.</p>
+            </div>
+            <div class="flex flex-row text-[#BBBBBB] items-center justify-center text-center text-sm font-light my-5 mx-20">
+              Discover the benefits of data analytics.
+            </div>
+            <div class="flex flex-row text-white items-center justify-center text-center text-xs font-light mt-4 mb-4">
+              <div class="flex flex-col items-center justify-center">
+                <div class="flex flex-row text-white text-2xl font-bold">10k+</div>
+                <div class="flex flex-row text-[#BBBBBB] uppercase">companies</div>
+              </div>
+            </div>
+            <div class="flex flex-row text-white items-center justify-center text-center text-xs font-light mb-4">
+              <div class="flex flex-col items-center justify-center">
+                <div class="flex flex-row text-white text-2xl font-bold">314</div>
+                <div class="flex flex-row text-[#BBBBBB] uppercase">templates</div>
+              </div>
+            </div>
+            <div class="flex flex-row text-white items-center justify-center text-center text-xs font-light mb-4">
+              <div class="flex flex-col items-center justify-center">
+                <div class="flex flex-row text-white text-2xl font-bold">314</div>
+                <div class="flex flex-row text-[#BBBBBB] uppercase">templates</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  12m+ queries
+</body>
+</html>
