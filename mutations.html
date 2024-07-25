@@ -20,17 +20,17 @@
     </style>
 </head>
 <body>
-<h1>Random Mutation Experiment</h1>
-<p>The purpose of this experiment is to show that random changes (mutations) cannot easily result in multiple correct changes happening at the same time.</p>
-<p>Imagine you have a sentence, and some letters are wrong. You need to change those wrong letters to the correct ones, but all at the same time.</p>
-<p>For example, if the target sentence is 'HELLO WORLD' and you need to change 'HXLXO WORXD' to 'HELLO WORLD', all the wrong letters ('X' and 'X') must change to 'E' and 'L' at the same time.</p>
-<p>This experiment will show how difficult it is to achieve this with random changes.</p>
+<h1>Evolution Simulation: Methinks it is like a weasel</h1>
+<p>The purpose of this experiment is to show the improbability of three coordinated mutations occurring within any given genome.</p>
+<p>Richard Dawkins conducted a similar experiment incorrectly by allowing each mutation to be fixed in place once it hit the target letter, even if it was isolatedly correct and did not confer any 'phenotypic' advantage.</p>
+<p>We will simulate the time it would take for a cow to evolve into a whale, highlighting the challenges of achieving multiple coordinated mutations through random processes.</p>
+<p>Given the complexity of evolutionary changes, this simulation will help visualize the time required for such transformations.</p>
 <div id="output">Initial String</div>
 <div id="controls">
     <button id="startButton">Start</button>
     <button id="pauseButton">Pause</button>
 </div>
-<div id="counter">Mutations: 0</div>
+<div id="counter">Mutations: 0 | Years Passed: 0</div>
 
 <script>
     String.prototype.splice = function(idx, rem, str) {
@@ -41,8 +41,10 @@
     let currentString = "";
     let incorrectIndices = [];
     let mutationCount = 0;
+    let yearsPassed = 0;
     let running = false;
     let interval;
+
 
     function generateRandomString(length) {
         const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ";
@@ -58,6 +60,7 @@
         let sArray = s.split("");
         indices.forEach(index => {
             sArray[index] = chars.charAt(Math.floor(Math.random() * chars.length));
+            // sArray[index] = sArray[index];
         });
 
         indices = indices.sort((a, b) => a - b);
@@ -78,7 +81,7 @@
 
     function startMutation() {
         running = true;
-        interval = setInterval(mutate, 333); // 1/3 of a second
+        interval = setInterval(mutate, 2000);
     }
 
     function pauseMutation() {
@@ -91,9 +94,10 @@
 
         currentString = mutateString(currentString, incorrectIndices);
         mutationCount++;
+        yearsPassed += 3;
 
         document.getElementById("output").innerHTML ='<p>' + currentString.replaceAll('$', '<span style="color: red">').replaceAll('£', '</span>') + '</p>';
-        document.getElementById("counter").innerText = `Mutations: ${mutationCount}`;
+        document.getElementById("counter").innerText = `Mutations: ${mutationCount} | Years Passed: ${yearsPassed}`;
 
         // console.log(currentString);
         // console.log('<p>' + currentString.replace('$', '<span style=\"color: red\">').replace('£', '</span>') + '</p>')
